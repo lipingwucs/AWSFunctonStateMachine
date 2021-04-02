@@ -1,4 +1,4 @@
-# AWS Functon StateMachine
+# AWS Functon State Machine
 # Technologies
 * AWS Image Rekognition
 * AWS Lambda S3
