@@ -1,4 +1,4 @@
-# AWS Functon State Machine
+# AWS Function State Machine
 # Technologies
 * AWS serveless
 * AWS Image Rekognition
