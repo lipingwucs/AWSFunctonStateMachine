@@ -1,5 +1,6 @@
 # AWS Functon State Machine
 # Technologies
+* AWS serveless
 * AWS Image Rekognition
 * AWS Lambda S3
 * AWS State Machine
