@@ -1,0 +1,5 @@
+docker run --rm \
+  -v /Users/dtomaz/personal/lambda-aspose-docker/bin/release/netcoreapp3.1/publish:/var/task:ro,delegated \
+  -v /Users/dtomaz/personal/lambda-aspose-docker/deps:/opt:ro,delegated\
+  lambci/lambda:dotnetcore3.1 \
+  lambda-aspose-test::TesteAsposeCore2.Function::FunctionHandler ''
