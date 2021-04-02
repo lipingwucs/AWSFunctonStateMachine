@@ -12,4 +12,4 @@
 * Add Cloud trail to listen S3 event
 * Created State Machine to run the functions automatively.
 
-# [Demo Video](https://github.com/lipingwucs/AWSFunctonStateMachine/blob/main/COMP306_Lab4_LipingWu.mp4)S
+# [Demo Video](https://github.com/lipingwucs/AWSFunctonStateMachine/blob/main/COMP306_Lab4_LipingWu.mp4)
